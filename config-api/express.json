@@ -1,0 +1,16 @@
+{
+    "dev": {
+        "port": 3001,
+        "client_session": {
+            "secret": "DVt)N8^VPTf?}$FcGu}.UD8EBPg&nUz,jx6Hu(^xrWxuJ][@geRN[hpp%W3",
+            "duration": 604800000
+        }
+    },
+    "test": {
+        "port": 3002,
+        "client_session": {
+            "secret": "DVt)N8^VPTf?}$FcGu}.UD8EBPg&nUz,jx6Hu(^xrWxuJ][@geRN[hpp%W3",
+            "duration": 604800000
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "host": "127.0.0.1",
+        "database": "base",
+        "user": "admin",
+        "password": "d1cac413"
+    },
+    "test": {
+        "host": "127.0.0.1",
+        "database": "poker_test",
+        "user": "test",
+        "password": "user"
+    }
+}

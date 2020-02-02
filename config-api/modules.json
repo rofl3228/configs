@@ -1,0 +1,5 @@
+{
+    "general"   : {"active" : true},
+    "auth"      : {"active" : true},
+    "topic"     : {"active" : true}
+}
